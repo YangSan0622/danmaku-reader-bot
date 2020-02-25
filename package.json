@@ -1,0 +1,11 @@
+{
+    "name": "danmuku_reader",
+    "version": "1.0.0",
+    "description": "A Danmuku-Reader bot that fetches the live danmuku from Bilibili Live and reads it in Discord",
+    "main": "main.js",
+    "author": "Yang San",
+    "dependencies": {
+        "discord.js": "^11.5.1",
+        "winston": "^3.2.1"
+    }
+}
